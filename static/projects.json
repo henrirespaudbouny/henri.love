@@ -1,0 +1,249 @@
+[
+  {
+    "id": "1",
+    "titre": "AFI's top 100 film",
+    "type": "web",
+    "formation": "projet étudiant",
+    "date": "2018",
+    "image": "/static/img/projects/afi01.jpg",
+    "nextimage": "/static/img/projects/afi02.jpg",
+    "alt": [
+              "afi01.png",
+              "afi02.png",
+              "afi03.png"
+            ],
+    "tag": "vue js - front - work in progress",
+    "texte":[
+             "Travail en cours de finalisation. Il s'agit d'un site qui met en forme la liste des meilleurs films du siècle dernier d'après l'American Film Institute.",
+             "Projet réalisé tout seul avec Vue JS. L'idée était de réaliser un site qui fonctionne en scroll horizontal pour rappeler le défilement d'une pellicule et la chronologie des films sortis.",
+             "Le responsive reste cependant à peaufiner ainsi que les textes."
+            ],
+    "illustration":[
+                    "/static/img/projects/afi/afi01.jpg",
+                    "/static/img/projects/afi/afi02.jpg",
+                    "/static/img/projects/afi/afi03.jpg",
+                    "/static/img/projects/afi/afi04.jpg"
+                   ],
+    "source": "/hollywood/"
+  },
+  {
+    "id": "2",
+    "titre": "cheval de troie",
+    "type": "web",
+    "formation": "stage",
+    "date": "2017",
+    "image": "/static/img/projects/chevaldetroie01.jpg",
+    "nextimage": "/static/img/projects/chevaldetroie02.jpg",
+    "alt": [
+              "chevaldetroie01.png",
+              "chevaldetroie02.png",
+              "chevaldetroie03.png"
+            ],
+    "tag": "vue js - sass - front",
+    "texte":[
+             "Stage de 3 mois dans lequel j'avais le rôle de développeur web.",
+             "J'ai surtout travaillé sur le nouveau site de l'agence. Le but était de peaufiner le site surtout au niveau du timing des animations.",
+             "Ce stage a été enrichissant. J'ai pu approfondir mes connaissances en développement web notamment sur le framework VueJS."
+            ],
+    "illustration":[
+                    "/static/img/projects/chevaldetroie/chevaldetroie01.jpg",
+                    "/static/img/projects/chevaldetroie/chevaldetroie02.jpg",
+                    "/static/img/projects/chevaldetroie/chevaldetroie03.jpg",
+                    "/static/img/projects/chevaldetroie/chevaldetroie04.jpg"
+                   ],
+    "source": "https://chevaldetroie.net/"
+  },
+  {
+    "id": "3",
+    "titre": "jacked",
+    "type": "vidéo",
+    "formation": "projet étudiant",
+    "date": "2017",
+    "image": "/static/img/projects/jacked01.jpg",
+    "nextimage": "/static/img/projects/jacked02.jpg",
+    "alt": [
+              "jacked01.png",
+              "jacked02.png",
+              "jacked03.png"
+            ],
+    "tag": "générique - after effect - direction artistique",
+    "texte":[
+             "Pour ce projet nous devions imaginer un scénario de film et produire son générique d'introduction.",
+             "Avec un camarade nous avons voulu raconter l'histoire d'une prise électrique qui voit le monde de son mur et partage ses pensées au spectateur.",
+             "Nous avons voulu mélanger le figuratif en utilisant le lexique des schémas électriques et l'abstrait pour évoquer à la fois la matière et la pensée métaphore."
+            ],
+    "illustration":[
+                    "/static/img/projects/jacked/jacked01.jpg",
+                    "/static/img/projects/jacked/jacked02.jpg",
+                    "/static/img/projects/jacked/jacked03.jpg",
+                    "/static/img/projects/jacked/jacked04.jpg"
+                   ],
+    "source": "https://www.youtube.com/embed/Il0cBQQ1bw8"
+  },
+  {
+    "id": "4",
+    "titre": "logo imac",
+    "type": "web",
+    "formation": "projet étudiant",
+    "date": "2017",
+    "image": "/static/img/projects/imaclogo01.jpg",
+    "nextimage": "/static/img/projects/imaclogo02.jpg",
+    "alt": "imaclogo03.png",
+    "tag": "art génératif - processing - illustrator",
+    "texte":[
+             "L'enjeu de cette refonte du logo IMAC était de proposer une solution qui mêle arts et sciences : Un logo reposant sur un code informatique.",
+             "Le logo consiste en trois chevrons évoquant le numérique, l'art, la science, la communication, la diversité et la polyvalence, que propose la formation d'ingénieur IMAC.",
+             "Un site a été réalisé dans lequel nous pouvons télécharger différents packs de logos et également télécharger un code fait avec processing pour créer son propre logo."
+            ],
+    "illustration":[
+                    "/static/img/projects/logo_imac/logo_imac01.png",
+                    "/static/img/projects/logo_imac/logo_imac02.png",
+                    "/static/img/projects/logo_imac/logo_imac03.png",
+                    "/static/img/projects/logo_imac/logo_imac04.png"
+                   ],
+    "source": "https://logo.ingenieur-imac.fr"
+  },
+  {
+    "id": "5",
+    "titre": "traveling",
+    "type": "web",
+    "formation": "projet étudiant",
+    "date": "2016",
+    "image": "/static/img/projects/traveling01.jpg",
+    "nextimage": "/static/img/projects/traveling02.jpg",
+    "alt": [
+              "traveling01.png",
+              "traveling02.png",
+              "traveling03.png"
+            ],
+    "tag": "front-end - webdesign - html - css - js",
+    "texte":[
+             "Pour ce projet il fallait réaliser le design et la conception d'un site web autour du voyage.",
+             "L'idée du site est de proposer la visite de lieux devenus cultes à des films ou séries comme Taxi driver ou Breaking Bad.",
+             "C'est un projet qui m'a permi d'approfondir mes compétences en javascript et en design en réfléchissant notamment à comment transposer l'expérience sensorielle d'un objet filmique dans un site web."
+            ],
+    "illustration":[
+                    "/static/img/projects/traveling/traveling_01.png",
+                    "/static/img/projects/traveling/traveling_02.png",
+                    "/static/img/projects/traveling/traveling_03.png",
+                    "/static/img/projects/traveling/traveling_04.png",
+                    "/static/img/projects/traveling/traveling_05.png"
+                   ],
+    "source": "http://traveling.corentindechomet.fr/"
+  },
+  {
+    "id": "6",
+    "titre": "return;",
+    "type": "vidéo",
+    "formation": "projet étudiant",
+    "date": "2016",
+    "image": "/static/img/projects/return01.jpg",
+    "nextimage": "/static/img/projects/return02.jpg",
+    "alt": [
+              "return01.png",
+              "return02.png",
+              "return03.png"
+            ],
+    "tag": "écriture - réalisation - montage - premiere",
+    "texte":[
+             "Le but était de  écrire et réaliser un film de 8 minutes avec pour thème : Le Retour.",
+             "J'ai participé à l'écriture, réalisation et montage du film. L'idée était de questionner la possession de notre propre corps, l'aliénation, à l'ère de la technologie.",
+             "C'est mon 3ième film et sûrement le plus abouti, il reste des défauts dûs aux aléas de tournages mais le résultat est assez proche de ce que mes camarades et moi voulions faire."
+            ],
+    "illustration":[
+                    "/static/img/projects/return/return_001.png",
+                    "/static/img/projects/return/return_01.png",
+                    "/static/img/projects/return/return_02.png",
+                    "/static/img/projects/return/return_03.png",
+                    "/static/img/projects/return/return_04.png",
+                    "/static/img/projects/return/return_05.png",
+                    "/static/img/projects/return/return_06.png",
+                    "/static/img/projects/return/return_07.png",
+                    "/static/img/projects/return/return_08.png"
+                   ],
+    "source": "https://www.youtube.com/embed/P3bJTmkh5fg"
+  },
+  {
+    "id": "7",
+    "titre": "dormir à rome",
+    "type": "web",
+    "formation": "stage",
+    "date": "2015",
+    "image": "/static/img/projects/dormirarome01.jpg",
+    "nextimage": "/static/img/projects/dormirarome02.jpg",
+    "alt": [
+              "dormirarome01.png",
+              "dormirarome02.png",
+              "dormirarome03.png"
+            ],
+    "tag": "wordpress - php - html - css",
+    "texte":[
+             "Site réalisé tout seul à l'occasion d'un stage de deux mois dans l'entreprise Dormir en Italie.",
+             "J'ai travaillé comme un freelance sur ce projet de la conception à la réalisation et m'a permis de découvrir Wordpress. Il fallait un site fonctionnel mais avec un ton très personnel, proche du client",
+             "C'est le plus gros site que j'ai fait à ce jour avec une centaine de pages et cela a été une très bonne expérience pour moi."
+            ],
+    "illustration":[
+                    "/static/img/projects/dormirarome/dormirarome_01.png",
+                    "/static/img/projects/dormirarome/dormirarome_02.png",
+                    "/static/img/projects/dormirarome/dormirarome_03.png",
+                    "/static/img/projects/dormirarome/dormirarome_04.png"
+                   ],
+    "source": "http://dormirarome.com/"
+  },
+  {
+    "id": "8",
+    "titre": "épitaphe",
+    "type": "vidéo",
+    "formation": "projet étudiant",
+    "date": "2014",
+    "image": "/static/img/projects/epitaphe01.jpg",
+    "nextimage": "/static/img/projects/epitaphe02.jpg",
+    "alt": [
+              "epitaphe01.png",
+              "epitaphe02.png",
+              "epitaphe03.png"
+            ],
+    "tag": "écriture - réalisation - montage - premiere",
+    "texte":[
+             "Le but était de  écrire et réaliser un film de moins de 5 minutes avec pour thème : Transparent.",
+             "J'ai participé à l'écriture, réalisation et montage du film. Le film essaie de donner un début de réponse à la question suivante : Existe-t-on à travers les autres ou par nature ?",
+             "Sur ce film j'ai essayé de travaillé l'ambiance avec des plans réfléchis et une couleur particulière."
+            ],
+    "illustration":[
+                    "/static/img/projects/epitaphe/epitaphe_01.png",
+                    "/static/img/projects/epitaphe/epitaphe_02.png",
+                    "/static/img/projects/epitaphe/epitaphe_03.png",
+                    "/static/img/projects/epitaphe/epitaphe_04.png",
+                    "/static/img/projects/epitaphe/epitaphe_05.png",
+                    "/static/img/projects/epitaphe/epitaphe_06.png"
+                   ],
+    "source": "https://player.vimeo.com/video/113034221"
+  },
+  {
+    "id": "9",
+    "titre": "bière qui roule",
+    "type": "vidéo",
+    "formation": "projet étudiant",
+    "date": "2014",
+    "image": "/static/img/projects/bierequiroule01.jpg",
+    "nextimage": "/static/img/projects/bierequiroule02.jpg",
+    "alt": [
+              "bierequiroule01.png",
+              "bierequiroule02.png",
+              "bierequiroule03.png"
+            ],
+    "tag": "cadrage - montage - premiere",
+    "texte":[
+             "Petit projet vidéo où il fallait intégrer composition After Effect de déplacement sur une carte",
+             "Tourné et monté en 1 jour c'était mon tout premier film et j'ai vraiment aimé l'expérience.",
+             "L'idée était de faire un clip vidéo où l'on suivrait les aventures d'une bouteille qui roule."
+            ],
+    "illustration":[
+                    "/static/img/projects/bierequiroule/bierequiroule_01.png",
+                    "/static/img/projects/bierequiroule/bierequiroule_02.png",
+                    "/static/img/projects/bierequiroule/bierequiroule_03.png",
+                    "/static/img/projects/bierequiroule/bierequiroule_04.png"
+                   ],
+    "source": "https://www.youtube.com/embed/zNqSkxNTQYM"
+  }
+]
